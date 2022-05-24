@@ -2,6 +2,6 @@
 
 > This is a simple personalized physical activity training service page
 
-### Project for fixation of basic technology web
+### Project for fixing basic web technologies
   - HTML
   - CSS
